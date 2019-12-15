@@ -1,6 +1,7 @@
 .idea
 .vscode
 
+.gitignore
 .npmignore
 
 package.json

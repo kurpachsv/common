@@ -1,6 +1,6 @@
 {
   "name": "@kurpachsv/common",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Common libs & configs.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/kurpachsv/common/issues"
   },
-  "homepage": "https://github.com/kurpachsv/common#readme"
+  "homepage": "https://github.com/kurpachsv/common#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "prettier": "^1.19.1"
+  }
 }
