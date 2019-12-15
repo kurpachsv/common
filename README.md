@@ -15,7 +15,15 @@ const config = require('@kurpachsv/common/prettier.config')
 
 module.exports = {
   ...config,
-  // your rules
-  // ...
+}
+```
+
+#### ESLint
+
+```javascript
+const config = require('@kurpachsv/common/.eslintrc')
+
+module.exports = {
+  ...config,
 }
 ```
