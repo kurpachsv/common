@@ -18,7 +18,7 @@ module.exports = {
 }
 ```
 
-#### ESLint
+### ESLint
 
 ```javascript
 const config = require('@kurpachsv/common/.eslintrc')
