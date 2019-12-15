@@ -1,0 +1,19 @@
+{
+  "name": "common",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurpachsv/common.git"
+  },
+  "author": "kurpachsv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurpachsv/common/issues"
+  },
+  "homepage": "https://github.com/kurpachsv/common#readme"
+}
