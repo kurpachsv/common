@@ -1,6 +1,6 @@
 {
   "name": "@kurpachsv/common",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Common libs & configs.",
   "scripts": {
     "commit": "cz",
