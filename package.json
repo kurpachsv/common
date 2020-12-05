@@ -4,6 +4,7 @@
   "description": "Common libs & configs.",
   "scripts": {
     "commit": "cz",
+    "lint": "eslint --cache --ext .js,.jsx,.ts,.tsx .",
     "publish": "npm publish .",
     "release": "standard-version",
     "release:patch": "npm run release -- --release-as patch",

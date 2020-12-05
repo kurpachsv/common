@@ -1,6 +1,7 @@
 .idea
 .vscode
 
+.eslintcaches
 .gitignore
 .npmignore
 
