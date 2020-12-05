@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/%40kurpachsv%2Fcommon.svg)](https://badge.fury.io/js/%40kurpachsv%2Fcommon)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 # @kurpachsv/common
 
